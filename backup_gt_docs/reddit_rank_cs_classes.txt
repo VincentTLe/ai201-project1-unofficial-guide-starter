@@ -1,0 +1,134 @@
+# Source: https://www.reddit.com/r/gatech/comments/v87chm/cs_majors_rank_the_classes_you_took_from_hardest
+# Subreddit: r/gatech | Retrieved: 2026-06-09
+# Title: CS majors, rank the classes you took from hardest to easiest?
+
+# CS majors, rank the classes you took from hardest to easiest? : r/gatech
+[Skip to main content]CS majors, rank the classes you took from hardest to easiest? : r/gatech
+
+Open menu Open navigation Go to Reddit Home
+Sign Up Log In
+
+r/gatech•4y ago
+Good-Criticism-8861
+
+# CS majors, rank the classes you took from hardest to easiest?
+
+Discussion
+
+Or just drop which classes you found the absolute hardest/on the easier side besides some of the obvious ones (Lin Alg, Multivariable, CS1301/1331, PHYS). Id appreciate it!
+
+ Archived post. New comments cannot be posted and votes cannot be cast.
+
+Share
+
+walmart•Promoted
+These Deals hit all the right notes 🎶 Shop Walmart Deals June 22–28 on tech, home & way more.
+Learn More
+walmart.com
+
+Sort by: Best
+Open comment sort options
+Best  Top  New  Controversial  Old  Q&A
+
+emosy
+•4y ago
+1. Junior design (I'm a sysarch)
+2. English 1102
+3. OS design
+4. everything else
+ Reply  Share
+
+Good-Criticism-8861
+•4y ago
+would you mind telling me what sub-class of 1102 you took?
+ Reply  Share
+
+emosy
+•4y ago
+I'm just lazy and don't like LMC work. it was a good class with Dr. Fennell about fantasy vs science fiction. I took one about different photography/communication media in spring 20 but dropped cuz I didn't do my work and COVID.
+ Reply  Share
+
+gtthrowaway24
+•4y ago
+Hey OP, just a couple notes on this question, assuming you're an incoming student.
+
+Bear in mind a lot of these courses are made easier/harder over time, e.g I've heard 2340 has become a lot more work in the last two years.
+
+Also a couple general resources for determining class difficulty:
+
+Critique - https://critique.gatech.edu contains historical GPA's broken down by course and instructor
+
+Smartevals - https://gatech.smartevals.com contains aggregated reports of student responses to the course/instructor opinion surveys for each course for each semester, including questions like "On average, how many hours did you spend per week on this class?" - this resource in particular is very helpful because you can cross-reference it against Critique to usually get an idea of what students think of specific instructors (Smartevals doesn't share which exact instructor the reviews were for, but Critique does - and typically only one or two instructors at most teach a CS course each semester)
+
+Qkwo
+•4y ago
+Easy: 1301, 1331, 2050, 4400, 3001
+Medium: 1332, 2110, 2340 (bad group)
+Hard: 3510, 2200
+Some people in this thread are cracked saying 1332 was a cakewalk, which i guess depends on if you had certain profs or not.
+
+pokerface0122
+•4y ago • Edited 4y ago
+I've taken basically every popular intel / ML class. You'll probably get varying answers because a big portion of difficulty is what classes you've taken previously. For instance, I rank deep learning as medium because it was my first pytorch class, while I rank the ML classes I took after that as easy because I already knew Pytorch (and their course content overlaps significantly).
+
+Minimal effort (basically spent no time at all, didn't watch any lectures and only did the graded work)
+- 1332, 3600, 7632 (Game AI)
+Easy (watched some lectures / minimal studying)
+- 2340, 3630, 4641, 6476 (computer vision), 6515 (intro to grad algo), 7650 (NLP)
+Medium (watched nearly all lectures / studied a non-trivial amount of time):
+- 2110, 7643 (deep learning), 7750 (math for ML)
+Hard (very difficult or very high effort):
+- CS 6550 (adv. grad algo w/ richard peng). Very hard and barely understood most of the content. Problem sets were all IMO prep problems and the class was meant for ACO phds to prepare for their qualifying exams.
+- CSE 8803 DSN. Super interesting, but the semester project took an immense amount of time and the grading was strict since the class size was small. Had to work very hard to get good grades.
+
+dishpanda
+•4y ago
+hardest: 2200, math 3012 easiest: 1100, 1331
+
+[deleted]
+•4y ago
+Hardest? CS 3210, CS 4210, CS 4290, MATH 1564
+Easiest? CS 1332/1, CS 2110, CS 2340, Junior Design, Ethics, CS 3651
+
+[deleted]
+•4y ago
+easy: 1332, 2050, 1331
+med: 3600, 2340
+hard: 2110, 3012
+
+dva_tho
+•4y ago
+It's been a minute, but my hardest class by far was algorithms, then probably compilers. Operating systems and processor design were both extremely challenging too, but also super rewarding.
+
+InvisiMurrph
+•4y ago
+hard: cs 3210 easy: everything else (info/sysarch pre 3210)
+
+chaosking121
+•4y ago
+Info/Int here
+Easy: 1331, 1332, 2050, 2340 (old), 2110, 4400, 3251, 2200*
+Medium: 3600, 3510, 4510, 4641, MATH 1554 and 3012
+Hard: Math 2550**
+*I really liked the material and meshed with it really well
+**I tested out of Calc 1 and 2 and forgot how to integrate by the time I took this
+
+GuyThirteen
+•4y ago
+From what I remember:
+Easy: 2050, 2340, 3600
+Med: 2110
+Hard: 3510/3511, 4641
+
+emosy
+•4y ago
+2031 is definitely a pain class especially for CS
+
+May2024Graduation
+•4y ago
+Personally, I would put 2200 in the medium category, 2050 in the easy category.
+
+# People also ask about section
+Hardest CS classes at Georgia Tech
+Study techniques for Georgia Tech courses
+Reddit, Inc. © 2026. All rights reserved.

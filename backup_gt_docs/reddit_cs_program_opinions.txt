@@ -1,0 +1,75 @@
+# Source: https://www.reddit.com/r/gatech/comments/74kh1v/what_do_you_guys_think_about_the_cs_program_here
+# Subreddit: r/gatech | Retrieved: 2026-06-09
+# Title: what do you guys think about the cs program here?
+
+# what do you guys think about the cs program here? : r/gatech
+[Skip to main content]
+Open menu Open navigation Go to Reddit Home
+Sign Up Log In
+
+r/gatech•9y ago
+glowfnag
+
+# what do you guys think about the cs program here?
+
+title says all. curious to see what cs majors like and don't like about gatech.
+
+ Archived post. New comments cannot be posted and votes cannot be cast.
+
+Share
+
+walmart•Promoted
+These Deals hit all the right notes 🎶 Shop Walmart Deals June 22–28.
+walmart.com
+
+Sort by: Best
+Best  Top  New  Controversial  Old  Q&A
+
+# Comments Section
+
+Daniel_Marcos
+•9y ago • Edited 9y ago
+Things I like:
+- The College of Computing is imo the best college in terms of caring for their students. Other colleges are a nightmare, from what I hear, when it comes to dealing with administration, talking to advisors, etc.
+- The program is very well respected. I applied to Airbnb a few days ago and their application said something like "Which college do you attend? [] MIT. [] Stanford. [] Berkeley. [] Georgia Tech. [] Other. Big companies are in the College of Computing lobby every day taking resumes. You won't have a problem finding a job.
+- There are so many opportunities for CS majors at Georgia Tech. From scholarships for conferences, to lectures by renowned computer scientists, to organizations like The Agency (AI Club) and GT Web Dev.
+- Also the thread system is pretty cool. I like it a lot.
+
+Things I don't like:
+- It's too crowded which means... It's impossible to get classes. The waitlists are in the hundreds every time. I'm a junior and I still can't get my classes ffs. The sense of community is not as big as with smaller majors. There's just too many of us.
+- We focus too much on theory. Regardless of what your threads are. This was a really big shock for me when I started interning. My friends at smaller / less "elite" schools had learned really valuable skills like Web, iOS, Android Development. They'd done tons of class projects to build a portfolio. They were a lot better prepared for the industry than GT kids.
+- Professors are very good researchers but that doesn't always translate to being good instructors. This is not unique to GT and will likely be a problem if you attend any top research university.
+
+glowfnag
+•9y ago
+does that mean theres less opportunities to develop actual projects in gatech's courses?
+
+cbraun11
+•9y ago
+Lord no. I took the following classes that each had a major implementation project component (i.e. The project was >30% of the grade): 2340 Objects and design, Design 1 and 2, 3300 software engineering, 3220 processor design, 2110 computer organization, research projects, 3210 operating systems, 3251 networking. Almost every CS class I can think of (besides discrete math and algorithms) had programming assignments where you actually have to show you can implement something.
+
+ramen05
+•9y ago
+Yes, I totally agree with professors not being very good at instructing/explaining/teaching the class. It's realy important to have a good professors especially in the intro level courses. I've had a few friends who switched their majors because the professors weren't good at teaching and they fall behind. It hurts to see that professors' teaching skill can make/break students and their outlook on the major they're pursuing.
+
+[deleted]
+•9y ago
+I don't know whether or not taking a lot of theory classes is a bad thing, but what I will say is that there should definitely be more coding in the theory classes. I recently took a HackerRank challenge and one of the coding problems was essentially a combinatorics question... except I never really coded anything dealing with combo, so it kinda through me for a loop.
+
+Josh_Morton
+•9y ago
+While I do find the few software engineering classes we offer woefully awful (2340, Capstone, technically there's 3300), a curricula based around theory is really useful. Technologies change and having a theoretical grounding lets you understand those things quickly. If anything, I wish we could get a software engineering thread, which interestingly could be highly theoretical, while still being incredibly effective, but alas.
+
+cbraun11
+•9y ago
+I was a CS undergraduate at GT and now I'm working on my PhD in CS here, so obviously I like the program and the school.
+Pros: Flexible class selection with threads, excellent faculty, lots of undergrad research opportunities, strong industry connections for internships and job placement, good startup scene in ATL, international opportunities for study abroad where you can take useful classes (Barcelona, China Summer Program) and pay in state tuition even if you're out of state
+Cons: Classes are hard to get into cause we're oversubscribed in CS, advisors are hit and miss, and it costs money? Not a whole lot of negatives imo.
+
+Josh_Morton
+•9y ago
+A number of the upper level courses get theory-er, although some of this also depends on the threads you pick. But in general, you won't write a line of code in 3510 for example.
+
+# People also ask about section
+Best study tips for Georgia Tech courses
+Reddit, Inc. © 2026. All rights reserved.

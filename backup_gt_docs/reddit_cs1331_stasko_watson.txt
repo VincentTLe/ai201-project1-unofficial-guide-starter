@@ -1,0 +1,60 @@
+# Source: https://www.reddit.com/r/gatech/comments/9s0bnx/cs_1331_john_stasko_or_susan_watson
+# Subreddit: r/gatech | Retrieved: 2026-06-09
+# Title: CS 1331: John Stasko or Susan Watson
+
+# CS 1331: John Stasko or Susan Watson : r/gatech
+[Skip to main content]
+Open menu Open navigation Go to Reddit Home
+Sign Up Log In
+
+r/gatech•8y ago
+MATH2551orNah
+
+# CS 1331: John Stasko or Susan Watson
+
+Who teaches the class better? Who has the easier class?
+Also, are there any other CS classes a non-CS person can take, besides CS 1330, 1315, 1371?
+And not entirely related, can you take CS 1331 for "fun" as a senior?
+
+ Archived post. New comments cannot be posted and votes cannot be cast.
+
+Share
+
+walmart•Promoted
+These Deals hit all the right notes 🎶 Shop Walmart Deals June 22–28.
+walmart.com
+
+Sort by: Best
+Best  Top  New  Controversial  Old  Q&A
+
+NotAnOldThrowaway
+•8y ago
+Please do a search to see if your questions have already been answered.
+ Reply  Share
+
+CanJammer
+•8y ago
+https://www.reddit.com/r/gatech/comments/9rawix/cs_1331_professor/
+ Reply  Share
+
+Fake_Name_6
+•8y ago
+Stasko is a great lecturer. Idk about Watson but I'd definitely recommend stasko's 1331 class to anyone wanting to learn programming. As for taking it for fun, you may have to wait until later to register (major restriction) and see if there's spots left I think.
+ Reply  Share
+
+[deleted]
+•8y ago
+irp.gatech.edu provides info about GPAs that's really detailed. I've Stasko for info viz and he's generally fair. His tests for info viz were a little bs in asking for a direct quote of some definitions, but otherwise he was fine and fun and all.
+if you're taking a cs class for fun, please don't take 1331. Java is one of those languages where you will be spending a few hours wrestling with the syntax errors instead of actually programming (i.e. wrestling with the logic errors haha). I know it's a prereq to everything else in CS and that a heck of a lot of classes use Java. I also don't have as much of a grudge against it as it appears; the docs for the standard api are excellent and the strong typing makes it much easier to trace through code sometimes. But it definitely isn't fun to learn unless if you like a bit of tedium.
+
+CanJammer
+•8y ago
+I disagree. Java is widely used in industry and although it can be verbose, OP seems to be more interested in learning a useful skill rather than having "fun". Most modern languages are statically typed so if OP were to start learning, it would be better to learn on something that has explicitly typed variables rather than one that make heavy use of type inference. If you are struggling for hours fixing compiler errors, I can't say it gets much easier in most other languages. When writing any non trivial amount of source code, giving readable instructions ("syntax") to a computer is actually programming.
+
+SirGoaty
+•8y ago
+2261 is pretty fun, you get to make a Gameboy game and you learn C
+
+# People also ask about section
+Best study tips for Georgia Tech courses
+Reddit, Inc. © 2026. All rights reserved.
