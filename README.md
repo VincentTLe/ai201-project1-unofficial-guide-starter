@@ -4,10 +4,6 @@ A small RAG system that answers plain-language questions about student life at K
 (Galesburg, IL) using only real student-generated writing — Niche reviews, Rate My
 Professors, and The Knox Student newspaper — and cites where each answer came from.
 
-> Note to self: the technical sections are filled from real runs. Re-read the **Evaluation**,
-> **Failure Case**, **Spec Reflection**, and **AI Usage** sections and put them in my own
-> words before submitting.
-
 ## How to run
 ```powershell
 # one-time: install deps into the project venv
